@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">密码管家</string>
+    
+    <!-- 认证相关 -->
+    <string name="biometric_title">生物识别验证</string>
+    <string name="biometric_subtitle">使用指纹或面部识别解锁应用</string>
+    <string name="biometric_description">请验证您的身份以访问密码库</string>
+    <string name="master_password_hint">请输入主密码</string>
+    <string name="master_password_title">主密码验证</string>
+    
+    <!-- 主界面 -->
+    <string name="search_passwords">搜索密码</string>
+    <string name="add_password">添加密码</string>
+    <string name="generate_password">生成密码</string>
+    <string name="security_check">安全检查</string>
+    <string name="all_passwords">全部密码</string>
+    <string name="login_passwords">登录密码</string>
+    <string name="bank_cards">银行卡</string>
+    <string name="identity_cards">身份证件</string>
+    <string name="secure_notes">安全备忘</string>
+    
+    <!-- 密码详情 -->
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="website">网站</string>
+    <string name="notes">备注</string>
+    <string name="copy_username">复制用户名</string>
+    <string name="copy_password">复制密码</string>
+    <string name="show_password">显示密码</string>
+    <string name="hide_password">隐藏密码</string>
+    <string name="password_strength">密码强度</string>
+    <string name="weak_password">弱</string>
+    <string name="medium_password">中等</string>
+    <string name="strong_password">强</string>
+    
+    <!-- 密码生成器 -->
+    <string name="password_length">密码长度</string>
+    <string name="include_uppercase">包含大写字母</string>
+    <string name="include_lowercase">包含小写字母</string>
+    <string name="include_numbers">包含数字</string>
+    <string name="include_symbols">包含符号</string>
+    <string name="exclude_ambiguous">排除易混淆字符</string>
+    <string name="generate">生成</string>
+    <string name="regenerate">重新生成</string>
+    
+    <!-- 设置 -->
+    <string name="settings">设置</string>
+    <string name="security_settings">安全设置</string>
+    <string name="sync_settings">同步设置</string>
+    <string name="appearance_settings">外观设置</string>
+    <string name="about">关于</string>
+    <string name="enable_biometric">启用生物识别</string>
+    <string name="auto_lock_timeout">自动锁定时间</string>
+    <string name="dark_theme">深色主题</string>
+    <string name="sync_enabled">启用同步</string>
+    
+    <!-- 通用 -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="share">分享</string>
+    <string name="confirm">确认</string>
+    <string name="ok">确定</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="loading">加载中...</string>
+    
+    <!-- 错误消息 -->
+    <string name="error_biometric_not_available">生物识别不可用</string>
+    <string name="error_biometric_not_enrolled">未设置生物识别</string>
+    <string name="error_authentication_failed">认证失败</string>
+    <string name="error_master_password_incorrect">主密码错误</string>
+    <string name="error_network_unavailable">网络不可用</string>
+    <string name="error_sync_failed">同步失败</string>
+</resources>
